@@ -4,6 +4,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.os.Bundle;
 import android.widget.ListView;
 
+
 import java.util.ArrayList;
 
 public class MainActivity extends AppCompatActivity {
@@ -22,9 +23,8 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private ArrayList<ItemLista> getArrayItems() {
-        ArrayList<ItemLista> lista = new ArrayList<>();
-        lista.add(new ItemLista(R.drawable.ferragut,"Sofia Ferragut","Profe Curso"));
-        return lista;
+            return XmlParser.parsearAlumnos(this);
+
     }
 
 }

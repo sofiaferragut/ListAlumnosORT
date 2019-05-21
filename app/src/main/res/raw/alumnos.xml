@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<alumnos>
+
+        <alumno id="1">
+            <nombre>Sofia Ferragut</nombre>
+            <grupo>Profe</grupo>
+            <foto>ferragut</foto>
+
+        </alumno>
+
+
+</alumnos>
