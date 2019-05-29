@@ -7,6 +7,10 @@
             <foto>ferragut</foto>
 
         </alumno>
-
+        <alumno id = "77">
+            <nombre>Santiago Sambataro</nombre>
+            <grupo>Grupo 7</grupo>
+            <foto>sambataro</foto>
+        </alumno>
 
 </alumnos>
