@@ -8,5 +8,11 @@
 
         </alumno>
 
+        <alumno id="50">
+            <nombre>Franco Horita</nombre>
+            <grupo>Alumno</grupo>
+            <foto>fhorita</foto>
+        </alumno>
+
 
 </alumnos>
