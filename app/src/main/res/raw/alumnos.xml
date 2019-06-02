@@ -8,5 +8,11 @@
 
         </alumno>
 
+        <alumno id="38">
+            <nombre>Fuentes Jorge</nombre>
+            <grupo>Grupo AppProfesParticulares</grupo>
+            <foto>fuentes</foto>
+
+        </alumno>
 
 </alumnos>
