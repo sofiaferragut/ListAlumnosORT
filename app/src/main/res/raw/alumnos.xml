@@ -31,5 +31,11 @@
             <grupo>Alumno</grupo>
             <foto>bwider</foto>
         </alumno>
+		
+		<alumno id="27">
+            <nombre>Mariano Añino</nombre>
+            <grupo>Alumno</grupo>
+            <foto>manino</foto>
+        </alumno>
 
 </alumnos>
