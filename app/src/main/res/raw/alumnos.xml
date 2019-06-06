@@ -14,5 +14,11 @@
             <foto>fhorita</foto>
         </alumno>
 
+        <alumno id="38996469">
+            <nombre>Brian Wider</nombre>
+            <grupo>Alumno</grupo>
+            <foto>bwider</foto>
+        </alumno>
+
 
 </alumnos>
