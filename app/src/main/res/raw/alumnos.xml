@@ -38,4 +38,10 @@
             <foto>manino</foto>
         </alumno>
 
+        <alumno id="38616178">
+            <nombre>Nicolas Sanchez</nombre>
+            <grupo>Alumno</grupo>
+            <foto>sanchez</foto>
+        </alumno>
+
 </alumnos>
