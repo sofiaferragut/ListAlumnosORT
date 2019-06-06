@@ -14,6 +14,12 @@
             <foto>fhorita</foto>
         </alumno>
 
+		<alumno id="12">
+            <nombre>Martin Kiperszmid</nombre>
+            <grupo>Alumno</grupo>
+            <foto>mkiperszmid</foto>
+        </alumno>
+
         <alumno id="38996469">
             <nombre>Brian Wider</nombre>
             <grupo>Alumno</grupo>
