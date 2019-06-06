@@ -7,6 +7,11 @@
             <foto>ferragut</foto>
 
         </alumno>
+        <alumno id="2">
+            <nombre>David Gonzalez</nombre>
+            <grupo>alumno</grupo>
+            <foto>dgonzalez</foto>
+        </alumno>
 
 
 </alumnos>
