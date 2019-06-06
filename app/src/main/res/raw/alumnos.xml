@@ -8,5 +8,16 @@
 
         </alumno>
 
+        <alumno id="50">
+            <nombre>Franco Horita</nombre>
+            <grupo>Alumno</grupo>
+            <foto>fhorita</foto>
+        </alumno>
+		<alumno id="12">
+            <nombre>Martin Kiperszmid</nombre>
+            <grupo>Alumno</grupo>
+            <foto>mkiperszmid</foto>
+        </alumno>
+
 
 </alumnos>

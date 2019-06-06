@@ -22,7 +22,7 @@ public class XmlParser {
             DocumentBuilder builder = dbf.newDocumentBuilder();
             Document document = builder.parse(context.getResources().openRawResource(R.raw.alumnos));
             document.getDocumentElement().normalize();
-
+            //Obtiene una lista de todos los elementos XML llamados "alumno"
             NodeList alumnos = document.getElementsByTagName("alumno");
             ArrayList<ItemLista> lista = new ArrayList<>();
             String nombre="";
@@ -31,7 +31,7 @@ public class XmlParser {
             for (int i = 0; i < alumnos.getLength(); i++) {
                 Node nodo = alumnos.item(i);
 
-
+                //Se cargan los elementos dentro de la lista que se llenará en el Adaptador
                 if (nodo.getNodeType() == Node.ELEMENT_NODE) {
                     Element element = (Element) nodo;
                     nombre=element.getElementsByTagName("nombre").item(0).getTextContent();
