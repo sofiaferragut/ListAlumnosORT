@@ -43,5 +43,11 @@
             <grupo>Alumno</grupo>
             <foto>sanchez</foto>
         </alumno>
+    
+        <alumno id="69">
+            <nombre>Nicolas Litardo</nombre>
+            <grupo>Alumno</grupo>
+            <foto>nlitardo</foto>
+        </alumno>
 
 </alumnos>
