@@ -52,7 +52,7 @@
         <alumno id="678032">
             <nombre>Matias Rodriguez</nombre>
             <grupo>Alumno</grupo>
-            <foto>Rodriguez</foto>
+            <foto>rodriguez</foto>
         </alumno>
 
     <alumno id="150395">
@@ -60,6 +60,12 @@
         <grupo>G7-Control de Asistencia</grupo>
         <foto>iglesia</foto>
 
+    </alumno>
+
+    <alumno id="1132425646">
+        <nombre>Facundo Bogado</nombre>
+        <grupo>Alumno</grupo>
+        <foto>fbogado</foto>
     </alumno>
 
 
