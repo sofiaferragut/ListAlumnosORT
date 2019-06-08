@@ -49,5 +49,11 @@
             <grupo>Alumno</grupo>
             <foto>nlitardo</foto>
         </alumno>
+        <alumno id="678032">
+            <nombre>Matias Rodriguez</nombre>
+            <grupo>Alumno</grupo>
+            <foto>Rodriguez</foto>
+        </alumno>
+
 
 </alumnos>
