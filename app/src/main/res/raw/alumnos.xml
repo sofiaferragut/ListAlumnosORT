@@ -55,5 +55,12 @@
             <foto>Rodriguez</foto>
         </alumno>
 
+    <alumno id="150395">
+        <nombre>Adrian Iglesia</nombre>
+        <grupo>G7-Control de Asistencia</grupo>
+        <foto>iglesia</foto>
+
+    </alumno>
+
 
 </alumnos>
