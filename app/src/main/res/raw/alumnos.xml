@@ -68,5 +68,10 @@
         <foto>fbogado</foto>
     </alumno>
 
+    <alumno id="35316888">
+        <nombre>Facundo Ravinale</nombre>
+        <grupo>Alumno</grupo>
+        <foto>ravinale</foto>
+    </alumno>
 
 </alumnos>
