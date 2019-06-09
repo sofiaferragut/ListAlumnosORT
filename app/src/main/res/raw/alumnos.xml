@@ -75,4 +75,10 @@
     </alumno>
 
 
+    <alumno id="24">
+        <nombre>Ezequiel Martinez</nombre>
+        <grupo>Grupo 10</grupo>
+        <foto>emartinez</foto>
+    </alumno>
+
 </alumnos>
