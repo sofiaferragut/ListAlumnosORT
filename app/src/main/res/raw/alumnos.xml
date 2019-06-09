@@ -81,4 +81,9 @@
         <foto>emartinez</foto>
     </alumno>
 
+    <alumno id="25">
+        <nombre>Leandro Furyk</nombre>
+        <grupo>Grupo 10</grupo>
+        <foto>lfuryk</foto>
+    </alumno>
 </alumnos>
