@@ -86,4 +86,10 @@
         <grupo>Grupo 10</grupo>
         <foto>lfuryk</foto>
     </alumno>
+
+    <alumno id="31606997">
+        <nombre>Sebastian Diaz</nombre>
+        <grupo>GrupoX</grupo>
+        <foto>sdiaz</foto>
+    </alumno>
 </alumnos>
