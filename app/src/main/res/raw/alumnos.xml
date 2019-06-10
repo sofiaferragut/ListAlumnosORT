@@ -13,5 +13,88 @@
             <foto>dgonzalez</foto>
         </alumno>
 
+        <alumno id = "77">
+            <nombre>Santiago Sambataro</nombre>
+            <grupo>Grupo 7</grupo>
+            <foto>sambataro</foto>
+        </alumno>
 
+        <alumno id="50">
+            <nombre>Franco Horita</nombre>
+            <grupo>Alumno</grupo>
+            <foto>fhorita</foto>
+        </alumno>
+
+		<alumno id="12">
+            <nombre>Martin Kiperszmid</nombre>
+            <grupo>Alumno</grupo>
+            <foto>mkiperszmid</foto>
+        </alumno>
+
+        <alumno id="38996469">
+            <nombre>Brian Wider</nombre>
+            <grupo>Alumno</grupo>
+            <foto>bwider</foto>
+        </alumno>
+		
+		<alumno id="27">
+            <nombre>Mariano Añino</nombre>
+            <grupo>Alumno</grupo>
+            <foto>manino</foto>
+        </alumno>
+
+        <alumno id="38616178">
+            <nombre>Nicolas Sanchez</nombre>
+            <grupo>Alumno</grupo>
+            <foto>sanchez</foto>
+        </alumno>
+    
+        <alumno id="69">
+            <nombre>Nicolas Litardo</nombre>
+            <grupo>Alumno</grupo>
+            <foto>nlitardo</foto>
+        </alumno>
+        <alumno id="678032">
+            <nombre>Matias Rodriguez</nombre>
+            <grupo>Alumno</grupo>
+            <foto>rodriguez</foto>
+        </alumno>
+
+    <alumno id="150395">
+        <nombre>Adrian Iglesia</nombre>
+        <grupo>G7-Control de Asistencia</grupo>
+        <foto>iglesia</foto>
+
+    </alumno>
+
+    <alumno id="1132425646">
+        <nombre>Facundo Bogado</nombre>
+        <grupo>Alumno</grupo>
+        <foto>fbogado</foto>
+    </alumno>
+
+    <alumno id="91812731">
+        <nombre>Jhonnatan Zevallos</nombre>
+        <grupo>Alumno</grupo>
+        <foto>jzevallos</foto>
+    </alumno>
+
+
+    <alumno id="24">
+        <nombre>Ezequiel Martinez</nombre>
+        <grupo>Grupo 10</grupo>
+        <foto>emartinez</foto>
+    </alumno>
+
+    <alumno id="25">
+        <nombre>Leandro Furyk</nombre>
+        <grupo>Grupo 10</grupo>
+        <foto>lfuryk</foto>
+    </alumno>
+
+    <alumno id="31606997">
+        <nombre>Sebastian Diaz</nombre>
+        <grupo>GrupoX</grupo>
+        <foto>sdiaz</foto>
+    </alumno>
 </alumnos>
