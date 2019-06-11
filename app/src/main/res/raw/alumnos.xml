@@ -92,4 +92,10 @@
         <grupo>GrupoX</grupo>
         <foto>sdiaz</foto>
     </alumno>
+
+    <alumno id="33985295">
+        <nombre>Franco García</nombre>
+        <grupo>Grupo 22</grupo>
+        <foto>fgarcia</foto>
+    </alumno>
 </alumnos>
