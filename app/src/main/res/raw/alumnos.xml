@@ -97,4 +97,11 @@
         <grupo>GrupoX</grupo>
         <foto>sdiaz</foto>
     </alumno>
+
+    <alumno id="31606997">
+        <nombre>Manuel Tablado Ordoqui</nombre>
+        <grupo>Grupo 10</grupo>
+        <foto>mtablado</foto>
+    </alumno>
+
 </alumnos>
